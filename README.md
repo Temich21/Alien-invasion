@@ -7,7 +7,7 @@ The "Alien Invasion" project is a fun and engaging 2D game created using PyGame.
 - **Alien Invasion:** The game features waves of invading aliens with varying levels of difficulty, keeping players engaged and challenged.
 - **Scoring System:** A scoring mechanism is integrated, allowing players to track their progress and compete for high scores.
 - **Engaging Gameplay:** With fast-paced action and vibrant graphics, the "Alien Invasion" game offers an immersive and enjoyable gaming experience. <br/>
-The "tgbot-gpt" project showcases my proficiency in developing Telegram bots with advanced features, making communication more accessible and interactive for users on the Telegram platform.
+The "Alien Invasion" project demonstrates my proficiency in game development with PyGame and showcases my passion for creating engaging and entertaining interactive experiences.
 
 
 
